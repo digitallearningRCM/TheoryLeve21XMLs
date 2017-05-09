@@ -3,7 +3,7 @@
 
 <level>
     <!--// for pitch tent -->
-    <unit id="2">
+    <unit>
         <lesson xmlFile="pitch_L1" />
     </unit>
 </level>
