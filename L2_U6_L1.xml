@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lessons banner="L2_U6_B1">
+  <lesson type="standard" narrationFile="L2_U6_1">
+    <page file="L2_U6_1@2x.png" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U6_2">
+    <page file="L2_U6_2@2x.png" delay="0" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U6_3">
+    <page file="L2_U6_3(1)@2x.png" delay="0" />
+    <page file="L2_U6_3(2)@2x.png" delay="18" />
+    <page file="L2_U6_3(3)@2x.png" delay="19" />
+    <page file="L2_U6_3(4)@2x.png" delay="20" />
+    <page file="L2_U6_3(5)@2x.png" delay="23" />
+    <page file="L2_U6_3(6)@2x.png" delay="24" />
+    <page file="L2_U6_3(7)@2x.png" delay="25" />
+    <page file="L2_U6_3(8)@2x.png" delay="32"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U6_4">
+    <page file="L2_U6_4(0)@2x.png" delay="0" />
+    <page file="L2_U6_4(1)@2x.png" delay="6" />
+    <page file="L2_U6_4(2)@2x.png" delay="14" />
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U6_5">
+    <page file="L2_U6_5@2x.png" delay="0" />
+  </lesson>
+</lessons>
