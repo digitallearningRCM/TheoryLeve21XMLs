@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lessons banner="L2_U5_B1">
+  <lesson type="standard" narrationFile="L2_U5_1">
+    <page file="L2_U5_1(1)@2x.png" delay="0" />
+    <page file="L2_U5_1(2)@2x.png" delay="11" />
+    <page file="L2_U5_1(3)@2x.png" delay="20"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="L2_U5_2">
+    <page file="L2_U5_2(0)@2x.png" delay="0" />
+    <page file="L2_U5_2(1)@2x.png" delay="4" />
+    <page file="L2_U5_2(1a)@2x.png" delay="12" />
+    <page file="L2_U5_2(2)@2x.png" delay="19" />
+    <page file="L2_U5_2(2a)@2x.png" delay="27" />
+  </lesson>
+</lessons>
