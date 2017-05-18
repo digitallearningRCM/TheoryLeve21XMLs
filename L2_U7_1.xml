@@ -21,4 +21,17 @@
   <card graphic="L1_U7_10-11(3)" definition="soft"></card>
   <card graphic="L1_U7_10-11(4)" definition="moderatley soft"></card>
   <card graphic="L1_U7_3(2)" definition="speed at which music is performed"></card>
+  <card graphic="L2_U7_2(1)@2x.png" definition="fairly fast (a little slower than allegro)"></card>
+  <card graphic="L2_U7_2(2)@2x.png" definition="much, very"></card>
+  <card graphic="L2_U7_2(3)@2x.png" definition="little"></card>
+  <card graphic="L2_U7_2(4)@2x.png" definition="very fast"></card>
+  <card graphic="L2_U7_2(5)@2x.png" definition="slowing down"></card>
+  <card graphic="L2_U7_3(1)@2x.png" definition="repeat from the beginning and end at Fine"></card>
+  <card graphic="L2_U7_3(2)@2x.png" definition="from the beginning"></card>
+  <card graphic="L2_U7_3(3)@2x.png" definition="the end"></card>
+  <card graphic="L2_U7_4(1)@2x.png" definition="repeat sign"></card>
+  <card graphic="L2_U7_4(2)@2x.png" definition="tenuto"></card>
+  <card graphic="L2_U7_4(3)@2x.png" definition="very loud"></card>
+  <card graphic="L2_U7_4(4)@2x.png" definition="very soft"></card>
+  <card graphic="L2_U7_4(5)@2x.png" definition="pedal marking"></card>
 </cards>
