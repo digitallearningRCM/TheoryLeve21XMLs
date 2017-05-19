@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="L2_U2_B2">
   <lesson type="standard" narrationFile="L2_U2_5">
-    <page file="L2_U2_5@2x.png" delay="0"></page>
+    <page file="L2_U2_5" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U2_6">
-    <page file="L2_U2_6@2x.png" delay="0" type="standard"></page>
+    <page file="L2_U2_6" delay="0" type="standard"></page>
   </lesson>
   <lesson narrationFile="L2_U2_7">
-    <page file="L2_U2_7@2x.png" delay="0"></page>
+    <page file="L2_U2_7" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U2_8">
-    <page file="L2_U2_8@2x.png" delay="0"></page>
+    <page file="L2_U2_8" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U2_9">
-    <page file="L2_U2_9@2x.png" delay="0">
+    <page file="L2_U2_9" delay="0">
       <!--ADD NARRATION-->
     </page>
   </lesson>
   <lesson type="MCQ" narrationFile="empty">
     <page>
-      <question image="L2_U2_10(1)-Q_G@2x.png">
-        <option image="L2_U2_10(1)-A1_G@2x.png" answer="false" />
-        <option image="L2_U2_10(1)-A2_G@2x.png" answer="false" />
-        <option image="L2_U2_10(1)-A3_G@2x.png" answer="false" />
-        <option image="L2_U2_10(1)-A4_G@2x.png" answer="correct" />
+      <question image="L2_U2_10(1)-Q_G">
+        <option image="L2_U2_10(1)-A1_G" answer="false" />
+        <option image="L2_U2_10(1)-A2_G" answer="false" />
+        <option image="L2_U2_10(1)-A3_G" answer="false" />
+        <option image="L2_U2_10(1)-A4_G" answer="correct" />
       </question>
-      <question image="L2_U2_10(2)-Q_G@2x.png">
-        <option image="L2_U2_10(1)-A1_G@2x.png" answer="false" />
-        <option image="L2_U2_10(1)-A2_G@2x.png" answer="false" />
-        <option image="L2_U2_10(1)-A3_G@2x.png" answer="correct" />
-        <option image="L2_U2_10(1)-A4_G@2x.png" answer="false"></option>
+      <question image="L2_U2_10(2)-Q_G">
+        <option image="L2_U2_10(1)-A1_G" answer="false" />
+        <option image="L2_U2_10(1)-A2_G" answer="false" />
+        <option image="L2_U2_10(1)-A3_G" answer="correct" />
+        <option image="L2_U2_10(1)-A4_G" answer="false"></option>
       </question>
-      <question image="L2_U2_10(3)-Q_G@2x.png">
-        <option image="L2_U2_10(1)-A1_G@2x.png" answer="correct" />
-        <option image="L2_U2_10(1)-A2_G@2x.png" answer="false" />
-        <option image="L2_U2_10(1)-A3_G@2x.png" answer="false" />
-        <option image="L2_U2_10(1)-A4_G@2x.png" answer="false" />
+      <question image="L2_U2_10(3)-Q_G">
+        <option image="L2_U2_10(1)-A1_G" answer="correct" />
+        <option image="L2_U2_10(1)-A2_G" answer="false" />
+        <option image="L2_U2_10(1)-A3_G" answer="false" />
+        <option image="L2_U2_10(1)-A4_G" answer="false" />
       </question>
     </page>
   </lesson>

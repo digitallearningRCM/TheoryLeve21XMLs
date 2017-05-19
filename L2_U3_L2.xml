@@ -1,59 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="L2_U3_B2">
   <lesson type="standard" narrationFile="L2_U3_3">
-    <page file="L2_U3_3(1)@2x.png" delay="0" />
-    <page file="L2_U3_3(2)@2x.png" delay="8"></page>
+    <page file="L2_U3_3(1)" delay="0" />
+    <page file="L2_U3_3(2)" delay="8"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U3_4">
-    <page file="L2_U3_4(1)@2x.png" delay="0" />
-    <page file="L2_U3_4(2)@2x.png" delay="10" />
-    <page file="L2_U3_4(3)@2x.png" delay="20"></page>
+    <page file="L2_U3_4(1)" delay="0" />
+    <page file="L2_U3_4(2)" delay="10" />
+    <page file="L2_U3_4(3)" delay="20"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U3_5">
-    <page file="L2_U3_5(1)@2x.png" delay="0" />
-    <page file="L2_U3_5(2)@2x.png" delay="6"></page>
+    <page file="L2_U3_5(1)" delay="0" />
+    <page file="L2_U3_5(2)" delay="6"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U3_6">
-    <page file="L2_U3_6A@2x.png" delay="0" />
-    <page file="L2_U3_6B@2x.png" delay="14" />
-    <page file="L2_U3_6B(1)@2x.png" delay="25"></page>
+    <page file="L2_U3_6A" delay="0" />
+    <page file="L2_U3_6B" delay="14" />
+    <page file="L2_U3_6B(1)" delay="25"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U3_7">
-    <page file="L2_U3_7(1)@2x.png" delay="0" />
-    <page file="L2_U3_7(2)@2x.png" delay="10" />
-    <page file="L2_U3_7(3)@2x.png" delay="13" />
-    <page file="L2_U3_7(4)@2x.png" delay="19"></page>
+    <page file="L2_U3_7(1)" delay="0" />
+    <page file="L2_U3_7(2)" delay="10" />
+    <page file="L2_U3_7(3)" delay="13" />
+    <page file="L2_U3_7(4)" delay="19"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U3_8">
-    <page file="L2_U3_8(1)@2x.png" delay="0" />
-    <page file="L2_U3_8(2)@2x.png" delay="9" />
-    <page file="L2_U3_8(3)@2x.png" delay="12" />
-    <page file="L2_U3_8(4)@2x.png" delay="17"></page>
+    <page file="L2_U3_8(1)" delay="0" />
+    <page file="L2_U3_8(2)" delay="9" />
+    <page file="L2_U3_8(3)" delay="12" />
+    <page file="L2_U3_8(4)" delay="17"></page>
   </lesson>
   <lesson type="MCQ" narrationFile="empty">
     <page>
-      <question image="L2_U3_9(1)-Q_G@2x.png">
-        <option image="L2_U3_9(1)-A1_G@2x.png" answer="false" />
-        <option image="L2_U3_9(1)-A2_G@2x.png" answer="false" />
-        <option image="L2_U3_9(1)-A3_G@2x.png" answer="false" />
+      <question image="L2_U3_9(1)-Q_G">
+        <option image="L2_U3_9(1)-A1_G" answer="false" />
+        <option image="L2_U3_9(1)-A2_G" answer="false" />
+        <option image="L2_U3_9(1)-A3_G" answer="false" />
       </question>
     </page>
   </lesson>
   <lesson type="MCQ" narrationFile="empty">
     <page>
-      <question image="L2_U3_9(2)-Q_G@2x.png">
-        <option image="L2_U3_9(1)-A1_G@2x.png" answer="correct" />
-        <option image="L2_U3_9(1)-A2_G@2x.png" answer="correct" />
-        <option image="L2_U3_9(1)-A3_G@2x.png" answer="false" />
+      <question image="L2_U3_9(2)-Q_G">
+        <option image="L2_U3_9(1)-A1_G" answer="correct" />
+        <option image="L2_U3_9(1)-A2_G" answer="correct" />
+        <option image="L2_U3_9(1)-A3_G" answer="false" />
       </question>
     </page>
   </lesson>
   <lesson type="MCQ" narrationFile="empty">
     <page>
-      <question image="L2_U3_9(3)-Q_G@2x.png">
-        <option image="L2_U3_9(1)-A1_G@2x.png" answer="false" />
-        <option image="L2_U3_9(1)-A2_G@2x.png" answer="false" />
-        <option image="L2_U3_9(1)-A3_G@2x.png" answer="correct"></option>
+      <question image="L2_U3_9(3)-Q_G">
+        <option image="L2_U3_9(1)-A1_G" answer="false" />
+        <option image="L2_U3_9(1)-A2_G" answer="false" />
+        <option image="L2_U3_9(1)-A3_G" answer="correct"></option>
       </question>
     </page>
   </lesson>

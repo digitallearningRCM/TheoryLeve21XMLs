@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level>
+  <!--// for pitch tent -->
+  <unit>
+    <lesson xmlFile="L2_U1_L1"></lesson>
+    <lesson xmlFile="L2_U1_L2"></lesson>
+    <lesson xmlFile="L2_U1_L3" />
+  </unit>
+  <!--// for rhythm-->
+  <unit>
+    <lesson xmlFile="L2_U2_L1"></lesson>
+    <lesson xmlFile="L2_U2_L2"></lesson>
+  </unit>
+  <!--// for scales-->
+  <unit>
+    <lesson xmlFile="L2_U3_L1"></lesson>
+    <lesson xmlFile="L2_U3_L2"></lesson>
+    <lesson xmlFile="L2_U3_L3"></lesson>
+  </unit>
+  <!--// for intervals (copy from L1)-->
+  <unit>
+    <lesson xmlFile="intervals_L1"></lesson>
+  </unit>
+  <!--// for chords-->
+  <unit>
+    <lesson xmlFile="L2_U5_L1"></lesson>
+    <lesson xmlFile="L2_U5_L2"></lesson>
+    <lesson xmlFile="L2_U5_L3"></lesson>
+  </unit>
+  <!--// for history-->
+  <unit>
+    <lesson xmlFile="L2_U6_L1"></lesson>
+    <lesson xmlFile="L2_U6_L2"></lesson>
+  </unit>
+  <!--// for terms/tarot-->
+  <unit>
+    <lesson xmlFile="L2_U7_L1"></lesson>
+  </unit>
+  <!--// for history-->
+  <unit>
+    <lesson xmlFile="L2_U8_L1"></lesson>
+    <lesson xmlFile="L2_U8_L2"></lesson>
+  </unit>
+</level>

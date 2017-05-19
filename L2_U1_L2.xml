@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="L2_U1_B2">
   <lesson type="standard" narrationFile="L2_U1_2">
-    <page file="L2_U1_2(1)@2x.png" delay="0" />
-    <page file="L2_U1_2(2)@2x.png" delay="9"></page>
+    <page file="L2_U1_2(1)" delay="0" />
+    <page file="L2_U1_2(2)" delay="9"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U1_3">
-    <page file="L2_U1_3(1)@2x.png" delay="0" />
-    <page file="L2_U1_3(2)@2x.png" delay="1"></page>
+    <page file="L2_U1_3(1)" delay="0" />
+    <page file="L2_U1_3(2)" delay="1"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U1_4">
-    <page file="L2_U1_4(1)@2x.png" delay="0" />
-    <page file="L2_U1_4(2)@2x.png" delay="2"></page>
+    <page file="L2_U1_4(1)" delay="0" />
+    <page file="L2_U1_4(2)" delay="2"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U1_5">
-    <page file="L2_U1_5(1)@2x.png" delay="0" />
-    <page file="L2_U1_5(2)@2x.png" delay="7"></page>
+    <page file="L2_U1_5(1)" delay="0" />
+    <page file="L2_U1_5(2)" delay="7"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U1_6">
-    <page file="L2_U1_6(1)@2x.png" delay="0" />
-    <page file="L2_U1_6(2)@2x.png" delay="7"></page>
+    <page file="L2_U1_6(1)" delay="0" />
+    <page file="L2_U1_6(2)" delay="7"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U1_7">
-    <page file="L2_U1_7(1)@2x.png" delay="0" />
-    <page file="L2_U1_7(2)@2x.png" delay="8"></page>
+    <page file="L2_U1_7(1)" delay="0" />
+    <page file="L2_U1_7(2)" delay="8"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U1_8">
-    <page file="L2_U1_8@2x.png" delay="0" />
+    <page file="L2_U1_8" delay="0" />
   </lesson>
 </lessons>
