@@ -6,7 +6,7 @@
   <lesson type="standard" narrationFile="L2_U2_6">
     <page file="L2_U2_6" delay="0"></page>
   </lesson>
-  <lesson narrationFile="L2_U2_7">
+  <lesson type="standard" narrationFile="L2_U2_7">
     <page file="L2_U2_7" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U2_8">
