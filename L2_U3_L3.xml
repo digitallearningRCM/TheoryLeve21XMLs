@@ -2,7 +2,7 @@
 <lessons banner="L2_U3_B3">
   <lesson type="standard" narrationFile="L2_U3_10">
     <page file="L2_U3_10(1)" delay="0" />
-    <page file="L2_U3_10(2)" delay="0" />
+    <page file="L2_U3_10(2)" delay="25" />
   </lesson>
   <lesson type="standard" narrationFile="L2_U3_11">
     <page file="L2_U3_11(1)" delay="0" />
