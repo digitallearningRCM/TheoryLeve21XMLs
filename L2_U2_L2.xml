@@ -14,10 +14,9 @@
   </lesson>
   <lesson type="standard" narrationFile="L2_U2_9">
     <page file="L2_U2_9" delay="0">
-      <!--ADD NARRATION-->
     </page>
   </lesson>
-  <lesson type="MCQ" narrationFile="empty">
+  <lesson type="MCQ" narrationFile="L2_U2_13">
     <page>
       <question image="L2_U2_10(1)-Q_G">
         <option image="L2_U2_10(1)-A1_G" answer="false" />
@@ -25,12 +24,20 @@
         <option image="L2_U2_10(1)-A3_G" answer="false" />
         <option image="L2_U2_10(1)-A4_G" answer="correct" />
       </question>
+    </page>
+    </lesson>
+   <lesson type="MCQ" narrationFile="L2_U2_13">
+     <page>
       <question image="L2_U2_10(2)-Q_G">
         <option image="L2_U2_10(1)-A1_G" answer="false" />
         <option image="L2_U2_10(1)-A2_G" answer="false" />
         <option image="L2_U2_10(1)-A3_G" answer="correct" />
-        <option image="L2_U2_10(1)-A4_G" answer="false"></option>
-      </question>
+        <option image="L2_U2_10(1)-A4_G" answer="false" />
+       </question>
+      </page>
+    </lesson>
+  <lesson type="MCQ" narrationFile="L2_U2_13">
+    <page>
       <question image="L2_U2_10(3)-Q_G">
         <option image="L2_U2_10(1)-A1_G" answer="correct" />
         <option image="L2_U2_10(1)-A2_G" answer="false" />
