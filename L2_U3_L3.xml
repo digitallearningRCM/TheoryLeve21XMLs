@@ -10,18 +10,18 @@
     <page file="L2_U3_11(2)" delay="6" />
     <page file="L2_U3_11(2a)" delay="8" />
     <page file="L2_U3_11(3)" delay="15" />
-    <page file="L2_U3_11(4)" delay="22"></page>
+    <page file="L2_U3_11(4)" delay="22"/>
   </lesson>
   <lesson type="standard" narrationFile="L2_U3_12">
     <page file="L2_U3_12(1)" delay="0" />
-    <page file="L2_U3_12(2)" delay="22"></page>
+    <page file="L2_U3_12(2)" delay="22"/>
   </lesson>
   <lesson type="standard" narrationFile="L2_U3_13">
     <page file="L2_U3_13(1)" delay="0" />
     <page file="L2_U3_13(2)" delay="5" />
     <page file="L2_U3_13(3)" delay="15" />
     <page file="L2_U3_13(4)" delay="28" />
-    <page file="L2_U3_13(5)" delay="34"></page>
+    <page file="L2_U3_13(5)" delay="34"/>
   </lesson>
   <lesson type="standard" narrationFile="L2_U3_14">
     <page file="L2_U3_14(1)" delay="0" />
