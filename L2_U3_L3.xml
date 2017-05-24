@@ -31,3 +31,58 @@
     <page file="L2_U3_14(5)" delay="36" />
   </lesson>
 </lessons>
+<lesson type="MCQ" narrationFile="empty">
+<page>
+<question image="L2_U3_15(1)-Q_G@2x.png">
+ <option image="L2_U3_15(1)-A1_G@2x.png" answer="correct"/>
+ <option image="L2_U3_15(1)-A2_G@2x.png" answer="false"/>
+<option image="L2_U3_15(1)-A3_G@2x.png" answer="false">
+<lesson type="MCQ" narrationFile="empty">
+<page>
+<question image="L2_U3_15(2)-Q_G@2x.png">
+ <option image="L2_U3_15(1)-A1_G@2x.png" answer="correct"/>
+ <option image="L2_U3_15(1)-A2_G@2x.png" answer="false"/>
+ <option image="L2_U3_15(1)-A3_G@2x.png" answer="false"/>
+ </question>
+<lesson type="MCQ" narrationFile="empty">
+<page>
+<question image="L2_U3_15(3)-Q_G@2x.png">
+ <option image="L2_U3_15(1)-A1_G@2x.png" answer="false"/>
+ <option image="L2_U3_15(1)-A2_G@2x.png" answer="correct"/>
+ <option image="L2_U3_15(1)-A3_G@2x.png" answer="false"/>
+ </question>
+<lesson type="MCQ" narrationFile="empty">
+<page>
+<question image="L2_U3_15(4)-Q_G@2x.png">
+ <option image="L2_U3_15(1)-A1_G@2x.png" answer="false"/>
+ <option image="L2_U3_15(1)-A2_G@2x.png" answer="correct"/>
+ <option image="L2_U3_15(1)-A3_G@2x.png" answer="false"/>
+ </question>
+<lesson type="MCQ" narrationFile="empty">
+<page>
+<question image="L2_U3_15(5)-Q_G@2x.png">
+ <option image="L2_U3_15(1)-A1_G@2x.png" answer="false"/>
+ <option image="L2_U3_15(1)-A2_G@2x.png" answer="false"/>
+ <option image="L2_U3_15(1)-A3_G@2x.png" answer="correct"/>
+ </question>
+<lesson type="MCQ" narrationFile="empty">
+<page>
+<question image="L2_U3_15(6)-Q_G@2x.png">
+ <option image="L2_U3_15(1)-A1_G@2x.png" answer="false"/>
+ <option image="L2_U3_15(1)-A2_G@2x.png" answer="false"/>
+ <option image="L2_U3_15(1)-A3_G@2x.png" answer="correct"/>
+ </question>
+ </page>
+ </lesson>
+ </page>
+ </lesson>
+ </page>
+ </lesson>
+ </page>
+ </lesson>
+ </page>
+ </lesson>
+ </option>
+ </question>
+ </page>
+ </lesson>
