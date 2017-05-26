@@ -36,11 +36,11 @@
     </page>
   </lesson>
   <lesson type="standard" narrationFile="L2_U8_6">
-    <page file="L2_U8_6(1)" delay="0" />
-    <page file="L2_U8_6(2)" delay="7" />
-    <page file="L2_U8_6(3)" delay="9" />
-    <page file="L2_U8_6(4)" delay="12" />
-    <page file="L2_U8_6(5)" delay="22" />
+    <page file="L2_U8_6_1" delay="0" />
+    <page file="L2_U8_6_2" delay="7" />
+    <page file="L2_U8_6_3" delay="9" />
+    <page file="L2_U8_6_4" delay="12" />
+    <page file="L2_U8_6_1" delay="22" />
   </lesson>
   <lesson type="MCQ" narrationFile="L2_U8_7">
     <page>
